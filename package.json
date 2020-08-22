@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "Saphiralauncher",
   "version": "1.7.0",
-  "productName": "Helios Launcher",
+  "productName": "SaphiraLauncher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi/Mitsuki (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
